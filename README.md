@@ -19,3 +19,5 @@ Uma maneira de facilitar é utilizando o **Astro CLI**
 > Como regatorar um código para usar o Airflow?
 
 > O que é um Operador?
+
+
