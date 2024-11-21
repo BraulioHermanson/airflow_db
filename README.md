@@ -16,8 +16,17 @@ Uma maneira de facilitar é utilizando o **Astro CLI**
 
 > O que é uma DAG?
 
+
 > Como regatorar um código para usar o Airflow?
 
 > O que é um Operador?
 
+------------------
 
+### Astro-cli funcionando
+![Astro_flow](/pictures/astro_flow.png)
+
+-------------------------- 
+Instancias criado pelo astro para o Airflow funcionar
+
+![Astro_docker](/pictures/astro_docker.png)
