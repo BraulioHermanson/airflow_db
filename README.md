@@ -24,6 +24,7 @@ Uma maneira de facilitar é utilizando o **Astro CLI**
 ------------------
 
 ### Astro-cli funcionando
+[link-doc](https://github.com/astronomer/astro-cli)
 ![Astro_flow](/pictures/astro_flow.png)
 
 -------------------------- 
