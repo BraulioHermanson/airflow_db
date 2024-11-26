@@ -42,7 +42,6 @@ def segunda_dag_com_python_operator():
 
     # t1 >> [t2,t3]  # sequencia t1, depois t2 e y3 ao mesmo tempo 
     # t3 << t4 # t4 roda antes de t3
-
     # first_task.set_downstream([second_task, third_task]) # igual a de cima, no entanto usando explicitamente o metodo
     # third_task.set_upstream(fourth_task)
 
