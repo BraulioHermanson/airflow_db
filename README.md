@@ -15,9 +15,10 @@ Porque é necessario configurar o banco que sera usado no Airflow.
 Uma maneira de facilitar é utilizando o **Astro CLI**
 
 > O que é uma DAG?
+É um decorador que torna a minha pipeline gerenciável.
 
-
-> Como regatorar um código para usar o Airflow?
+> Como refatorar um código para usar o Airflow?
+Atraves da pasta include cria os arquivos que irao ser trabalhados e depois cria-se a dag com a execuçao deles.
 
 > O que é um Operador?
 
