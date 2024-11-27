@@ -9,7 +9,7 @@ tendo um webserver, um logger (instancia do postgres), ele tem um schedule(mais 
 possui um pacote de dags.
 O Airflow precisa de uma infraestrutura.
 
---------------------
+
 ### Por que eu nao consigo usar o Apache Airflow somente com a imagem do docker?
 
 >Porque é necessario configurar o banco que sera usado no Airflow.
