@@ -32,3 +32,8 @@ Atraves da pasta include cria os arquivos que irao ser trabalhados e depois cria
 Instancias criado pelo astro para o Airflow funcionar
 
 ![Astro_docker](/pictures/astro_docker.png)
+
+----------------------------
+Refatoração dos códigos para serem usados no Airflow.
+Tabela com os dados depois de executados o script que lê a API em questão e adiciona os dados no Postgres do Render.
+![pokemon_db](/pictures/pokemon_db.png)
