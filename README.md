@@ -9,7 +9,7 @@ tendo um webserver, um logger (instancia do postgres), ele tem um schedule(mais 
 possui um pacote de dags.
 O Airflow precisa de uma infraestrutura.
 
---------------------
+
 ### Por que eu nao consigo usar o Apache Airflow somente com a imagem do docker?
 
 >Porque é necessario configurar o banco que sera usado no Airflow.
@@ -21,7 +21,7 @@ Uma maneira de facilitar é utilizando o **Astro CLI**
 
 ### Como refatorar um código para usar o Airflow?
 
->Atraves da pasta include cria os arquivos que irao ser trabalhados e depois cria-se a dag com a execuçao deles.
+> Nao precisa refatorar, apenas adicione numa pasta de pipeline ou de codigos modularizados, no caso estou usando a  include, cria os arquivos que irao ser trabalhados e depois cria-se a dag com a execuçao deles.
 
 ### O que é um Operador?
 
