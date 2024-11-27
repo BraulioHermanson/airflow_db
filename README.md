@@ -8,19 +8,21 @@ O Airflow nao é uma biblioteca, ele possui varios componentes
 tendo um webserver, um logger (instancia do postgres), ele tem um schedule(mais complexo),
 possui um pacote de dags.
 O Airflow precisa de uma infraestrutura.
+--------------------
+### Por que eu nao consigo usar o Apache Airflow somente com a imagem do docker?
 
-> Por que eu nao consigo usar o Apache Airflow somente com a imagem do docker?
-
-Porque é necessario configurar o banco que sera usado no Airflow.
+>Porque é necessario configurar o banco que sera usado no Airflow.
 Uma maneira de facilitar é utilizando o **Astro CLI**
 
-> O que é uma DAG?
-É um decorador que torna a minha pipeline gerenciável.
+### O que é uma DAG?
 
-> Como refatorar um código para usar o Airflow?
-Atraves da pasta include cria os arquivos que irao ser trabalhados e depois cria-se a dag com a execuçao deles.
+>É um decorador que torna a minha pipeline gerenciável.
 
-> O que é um Operador?
+### Como refatorar um código para usar o Airflow?
+
+>Atraves da pasta include cria os arquivos que irao ser trabalhados e depois cria-se a dag com a execuçao deles.
+
+### O que é um Operador?
 
 ------------------
 
