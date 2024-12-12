@@ -25,6 +25,10 @@ Uma maneira de facilitar é utilizando o **Astro CLI**
 
 ### O que é um Operador?
 
+> Um Operador é uma classe que encapsula a lógica para realizar uma operação específica. Ele define como a task será executada, incluindo detalhes como o tipo de operação a ser realizada, parâmetros necessários da operação e comportamento de execução (como as retentativas e timeout).
+
+>Cada operador é instanciado dentro de uma DAG e é associado a uma task. Portanto, um operador serve como a "ação" que será realizada em uma task específica no fluxo de trabalho.
+
 ------------------
 
 ### Astro-cli funcionando
