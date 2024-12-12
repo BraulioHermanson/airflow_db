@@ -1,6 +1,6 @@
 # airflow_db
 
-## Projeto com duck_db e Airflow
+## Projeto com Airflow-Astronomer & API com Banco Postgres
 
 ### Por que eu nao consigo usar o Airflow apenas fazendo `pip install apache-aiflow`
 
